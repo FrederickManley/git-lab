@@ -7,4 +7,6 @@ public class Conflicts
 	public string ConflictTwo { get; set;}
 	public double ConflictABC{ get; set; }
 	public string NotAConflict { get; set; }
+	public int NotAConflictA { get; set; }
+	Erin was here
 }
